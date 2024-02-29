@@ -1,4 +1,4 @@
-# diimbing Website Technology Documentation
+# dibimbing Website Technology Documentation
 
 ## Analytics
 
